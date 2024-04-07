@@ -1,0 +1,6 @@
+.env
+.venv
+.idea
+*/bot.log
+stockx_bot/logs/
+stockx_bot/client_secret.json

@@ -5,7 +5,7 @@ from dataclasses import dataclass
 class STRINGS:
     ERROR_SORRY = "Внезапная ошибка ("
     BACK_TO_MENU = "Вернуться"
-    CALL_MNGR = "Позвать менеджера"
+    CALL_MNGR = "Помощь менеджера"
     NEW_ORDER = "Создать заявку"
     HELP = "Справка"
     SIZE = "Размер"
